@@ -8,8 +8,8 @@ Welcome to my GitHub profile! Here's a bit about me:
 - 🤝 Always open to collaborate on interesting projects.
 
 ## 🛠️ Technologies & Tools
-- **Languages:** Python, JavaScript, Java, C++, Dart, C#, Java
-- **Frameworks:** Node.js, Express, Spring Boot
+- **Languages:** Python, JavaScript, Java, C++, Dart, C#, Java, Go
+- **Frameworks:** Node.js, Express, Spring Boot, Fiber, Django, Fast Api
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools:** Git, Docker, Kubernetes, VS Code, Android Studio, Unity
 
